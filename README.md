@@ -16,6 +16,7 @@ This paper mainly focuses on the importance of using public opinions and suitabl
 
 __________________________________________________________________________________________________________________
 
+
 ## Why should we use NLP for this project
 
 -- NLP can generally handle large amounts of unstructured data, such as user comments on social media platforms, and analyze them in a relatively short time.
@@ -61,6 +62,39 @@ Data acquisition is the process of collecting and gathering raw data from variou
 topic modeling techniques such as Latent Dirichlet Allocation (LDA) to identify the topics discussed in the comments.
 
   Based on the results of the model evaluation and topic discovery, the model is refined by tweaking hyperparameters, changing the architecture of the deep learning model, or using a different feature extraction technique. The above steps are repeated iteratively until the desired performance of the sentiment classification and topic discovery model is achieved
+
+
+## Data Cleaning
+
+### Steps were taken to determine whether the data should be considered sensitive:
+
+-- Sensitive data is any information that, if revealed, could harm, or embarrass people, as it relates to COVID-19 patient comments. Examples of sensitive information include personally identifiable information (PII), names of persons, financial information about the cost of medical care in a certain hospital, and any other information that can be used to identify a person.
+
+-- Evaluating the data's possible hazards, such as the danger of injury or embarrassment to certain people if the data were revealed. 
+
+-- Data protection procedures are implemented to safeguard the data based on the risk assessment. For example, the data may be anonymized, access restrictions may be put in place, or sensitive data fields may be encrypted.
+
+-- Legal or ethical requirements linked with the collection and management of sensitive data are necessary.
+
+### Necessary steps to ensure the security of the data:
+
+-- Encryption and access controls should be used to prevent unauthorized access.
+
+-- Data security requirements should be observed while using a secured server or cloud-based storage.
+
+-- To protect the identity of specific people, the data should be anonymized if it contains personal information.
+
+-- To use the data for research purposes, the individual's personal informed consent must be used.
+
+-- To secure personal information, data privacy laws and regulations are rigorously adhered to.
+
+### Process and Methodology for Cleaning the Data:
+
+#### The final format for modeling and analysis:
+
+
+
+
 
 
 
