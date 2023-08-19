@@ -14,6 +14,7 @@ This paper mainly focuses on the importance of using public opinions and suitabl
 
 -- This study and analysis were limited to comments retrieved from January 20, 2020, and March 19, 2020.
 
+__________________________________________________________________________________________________________________
 
 ## Why should we use NLP for this project
 
