@@ -92,6 +92,9 @@ topic modeling techniques such as Latent Dirichlet Allocation (LDA) to identify 
 
 #### The final format for modeling and analysis:
 
+<img width="436" alt="image" src="https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/6bc27984-3b03-463c-80b7-3ed6942d7340">
+
+
 
 
 
