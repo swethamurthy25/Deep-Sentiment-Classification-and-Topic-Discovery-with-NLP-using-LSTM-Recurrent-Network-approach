@@ -9,6 +9,7 @@ This paper mainly focuses on the importance of using public opinions and suitabl
 ![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/6e18b2c8-6108-4678-b1bf-7d4efc86713d)
 
 <span style="color:#007bff;">## Limitations of the Paper:</span>
+<span style="color: red"> Some green text </span>
 
 -- This research was limited to English-language text, which was considered a selection criterion. Therefore, the results do not reflect comments made in other languages.
 
