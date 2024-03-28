@@ -67,9 +67,31 @@ Data acquisition is the process of collecting and gathering raw data from variou
 #### Formation of Word Cloud
 ![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/94f3d724-bf8c-4ad3-bb8c-50391e4fbf6f)
 
+## $\textcolor{red}{Step\ 3-\ Topic\ Discovery\ and\ Modelling}$
+
+#### Topic Modelling using the LDA technique
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/69b3b21b-ac30-4ba2-b0b5-4493a49c02cf)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/ddbf5e66-a5ac-4f1c-b3a5-57221215074d)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/7f864999-58c6-4b2b-93af-c4c24530b790)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/d50a51a8-27b4-4eba-88a4-eedf2b965166)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/a00f0894-8c8a-498b-8fd7-d35378ad6dcd)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/208c37aa-1945-414f-a816-466fdc6e145d)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/c83d23e6-c275-4c2f-b919-923c9588f549)
+
+#### Identification of Topics
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/af0140af-a26e-494b-a024-ec271fdfb100)
 
 
+#### Visualize Daily & Monthly Covid Counts
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/357fb24f-b7d4-4983-97a7-c54a76bf21db)
 
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/2ef4fda2-f8f7-499a-9e2f-e66a47205d16)
 
 
 
