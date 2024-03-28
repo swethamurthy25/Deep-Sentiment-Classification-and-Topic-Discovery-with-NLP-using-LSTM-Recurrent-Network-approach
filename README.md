@@ -1,10 +1,8 @@
 ## $\textcolor{red}{Deep\ Sentiment\ Classification\ and\ Topic-Discovery\ with NLP}$
 ## $\textcolor{red}{using\ LSTM\ Recurrent\ Network approach}$
 
-Course: Natural Language Processing (NLP)  
-
-Reference Paper: https://ieeexplore.ieee.org/document/9112671
-___________________________________________________________________________________________
+* Course: Natural Language Processing (NLP)  
+* Reference Paper: https://ieeexplore.ieee.org/document/9112671
 
 This paper mainly focuses on the importance of using public opinions and suitable NLP-based computational techniques to understand the issues around Covid-19 and the related decision-making process.
 ![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/6e18b2c8-6108-4678-b1bf-7d4efc86713d)
