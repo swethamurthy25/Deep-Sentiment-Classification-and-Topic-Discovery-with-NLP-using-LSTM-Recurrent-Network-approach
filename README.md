@@ -1,5 +1,4 @@
-# Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach
-## $\textcolor{red}{Deep-Sentiment-Classification\ and\ Topic-Discovery\ with-NLP\ using\ LSTM-Recurrent-Network-approach}$
+## $\textcolor{red}{Deep Sentiment Classification\ and\ Topic-Discovery\ with NLP\ using\ LSTM Recurrent Network approach}$
 
 Course: Natural Language Processing (NLP)  
 
@@ -12,14 +11,12 @@ This paper mainly focuses on the importance of using public opinions and suitabl
 
 ## $\textcolor{red}{Limitations\ of\ the\ Paper}$
 
--- This research was limited to English-language text, which was considered a selection criterion. Therefore, the results do not reflect comments made in other languages.
-
--- This study and analysis were limited to comments retrieved from January 20, 2020, and March 19, 2020.
+* This research was limited to English-language text, which was considered a selection criterion. Therefore, the results do not reflect comments made in other languages.
+* This study and analysis were limited to comments retrieved from January 20, 2020, and March 19, 2020.
 
 __________________________________________________________________________________________________________________
 
-
-## Why should we use NLP for this project
+## $\textcolor{red}{Why\ Should\ we use\ NLP}$
 
 -- NLP can generally handle large amounts of unstructured data, such as user comments on social media platforms, and analyze them in a relatively short time.
 
