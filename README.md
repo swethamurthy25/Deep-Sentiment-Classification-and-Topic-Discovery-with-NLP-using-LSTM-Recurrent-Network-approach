@@ -8,7 +8,7 @@ ________________________________________________________________________________
 This paper mainly focuses on the importance of using public opinions and suitable NLP-based computational techniques to understand the issues around Covid-19 and the related decision-making process.
 ![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/6e18b2c8-6108-4678-b1bf-7d4efc86713d)
 
-## Limitations of the Paper:
+<span style="color:#007bff;">## Limitations of the Paper:</span>
 
 -- This research was limited to English-language text, which was considered a selection criterion. Therefore, the results do not reflect comments made in other languages.
 
