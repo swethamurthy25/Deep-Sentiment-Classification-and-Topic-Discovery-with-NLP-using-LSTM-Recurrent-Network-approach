@@ -1,4 +1,5 @@
-## $\textcolor{red}{Deep Sentiment Classification\ and\ Topic-Discovery\ with NLP\ using\ LSTM Recurrent Network approach}$
+## $\textcolor{red}{Deep\ Sentiment\ Classification\ and\ Topic-Discovery\ with NLP}$
+## $\textcolor{red}{using\ LSTM\ Recurrent\ Network approach}$
 
 Course: Natural Language Processing (NLP)  
 
