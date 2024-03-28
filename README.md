@@ -1,4 +1,4 @@
-## $\textcolor{red}{Deep\ Sentiment\ Classification\ and\ Topic-Discovery\ with\ NLP\ using\ LSTM\ NeuralNetwork}$
+## $\textcolor{red}{Deep\ Sentiment\ Classification\ and\ Topic\ Discovery\ with\ NLP\ using\ LSTM\ NeuralNetwork}$
 
 * Course: Natural Language Processing (NLP)  
 * Reference Paper: https://ieeexplore.ieee.org/document/9112671
@@ -12,39 +12,28 @@ This paper mainly focuses on the importance of using public opinions and suitabl
 * This research was limited to English-language text, which was considered a selection criterion. Therefore, the results do not reflect comments made in other languages.
 * This study and analysis were limited to comments retrieved from January 20, 2020, and March 19, 2020.
 
-## $\textcolor{red}{Why\ Should\ we use\ NLP}$
+## $\textcolor{red}{Why\ the\ implementation\ is\ done\ on\ NLP}$
 
 * NLP can generally handle large amounts of unstructured data, such as user comments on social media platforms, and analyze them in a relatively short time.
 * NLP can effectively perform sentiment analysis to identify and categorize opinions and emotions expressed in user comments related to COVID-19.
 * NLP can process text in multiple languages making it possible to analyze user comments related to COVID-19 from different parts of the world. This can further provide insights into how the pandemic is affecting people in different regions and help in developing appropriate responses. 
 * NLP can be easily integrated with other technologies such as machine learning and data visualization to provide a comprehensive understanding of user comments related to COVID-19.
+___________________________________________________________________________________________
 
-
-## Data Acquisition
+## $\textcolor{red}{Step\ 1-\ Data\ Acquisition\ and\ identifying\ data\ sources}$
 
 Data acquisition is the process of collecting and gathering raw data from various sources and transforming it into a format that can be used for analysis or other applications.
 
-### Identify the data source
+* The methodology for collecting data sources for the deliverable will involve several steps to ensure the data is appropriate. First, we have already identified sources of 
+  COVID-19 patient comments, posted on Reddit from Kaggle. There was a total of 5,63,079 comments extracted, assessed, and used for this experiment.
+* The dataset was collected between January 20, 2020, and March 19, 2020.
+* We have then evaluated the data to ensure they contain relevant comments from COVID-19 patients that are suitable for sentiment analysis and topic modeling.
+* Some of the NLP techniques that have been incorporated are Topic Modelling – LDA & Gibbs Sampling, Sentiment Analysis / determining the sentiment polarity, Machine 
+  learning algorithms for sentiment analysis, and Long-Short Term Model (LSTM).
+* We have also considered the ethical implications of collecting and using the data and ensure that all necessary permissions are obtained before data collection begins.
+* We have taken measures to protect the privacy and anonymity of the individuals who have made the comments.
+* Overall, the methodology for collecting data sources will be rigorous and thorough to ensure that the data used for the deliverables are accurate.
 
-  The methodology for collecting data sources for the deliverable will involve several steps to ensure the data is appropriate. First, we have already identified sources of COVID-19 patient comments, posted on Reddit from Kaggle. There was a total of 5,63,079 comments extracted, assessed, and used for this experiment.
-     
-  The dataset was collected between January 20, 2020, and March 19, 2020. We have then evaluated the data to ensure they contain relevant comments from COVID-19 patients that are suitable for sentiment analysis and topic modeling. Some of the NLP techniques that have been incorporated are Topic Modelling – LDA & Gibbs Sampling, Sentiment Analysis / determining the sentiment polarity, Machine learning algorithms for sentiment analysis, and Long-Short Term Model (LSTM).
-      
-  We will also consider the ethical implications of collecting and using the data and ensure that all necessary permissions are obtained before data collection begins. We have taken measures to protect the privacy and anonymity of the individuals who have made the comments. Overall, the methodology for collecting data sources will be rigorous and thorough to ensure that the data used for the deliverables are accurate.
-
-### Potential problems with the data sources and collection methodology
-
--- The selection of COVID-19-related Reddit comments might not be representative of the overall population. For instance, it might overrepresent a particular demographic or people with a particular perspective on COVID-19.
-
--- Reddit comments may not be transferable to other platforms or social networking websites.
-
--- Reddit comments that contain errors or inconsistencies like misspellings, abbreviations, or sarcasm may affect the analysis.
-
--- Privacy concerns arise when gathering and analyzing data from social networking sites, especially if the data is not sufficiently anonymized.
-
--- Researchers must make sure they follow the proper ethical principles and receive the relevant approvals because collecting data from social media sites without users' explicit agreement or understanding presents ethical questions.
-
--- The dataset has comments for only three months, which is a very short duration.
 
 ### Iterative nature of NLP in relation to project and deliverable
 
