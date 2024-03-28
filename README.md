@@ -1,5 +1,4 @@
-## $\textcolor{red}{Deep\ Sentiment\ Classification\ and\ Topic-Discovery\ with NLP}$
-## $\textcolor{red}{using\ LSTM\ Recurrent\ Network approach}$
+## $\textcolor{red}{Deep\ Sentiment\ Classification\ and\ Topic-Discovery\ with\ NLP\ using\ LSTM\ NeuralNetwork}$
 
 * Course: Natural Language Processing (NLP)  
 * Reference Paper: https://ieeexplore.ieee.org/document/9112671
@@ -13,17 +12,12 @@ This paper mainly focuses on the importance of using public opinions and suitabl
 * This research was limited to English-language text, which was considered a selection criterion. Therefore, the results do not reflect comments made in other languages.
 * This study and analysis were limited to comments retrieved from January 20, 2020, and March 19, 2020.
 
-__________________________________________________________________________________________________________________
-
 ## $\textcolor{red}{Why\ Should\ we use\ NLP}$
 
--- NLP can generally handle large amounts of unstructured data, such as user comments on social media platforms, and analyze them in a relatively short time.
-
--- NLP can effectively perform sentiment analysis to identify and categorize opinions and emotions expressed in user comments related to COVID-19.
-
--- NLP can process text in multiple languages making it possible to analyze user comments related to COVID-19 from different parts of the world. This can further provide insights into how the pandemic is affecting people in different regions and help in developing appropriate responses. 
-
---NLP can be easily integrated with other technologies such as machine learning and data visualization to provide a comprehensive understanding of user comments related to COVID-19.
+* NLP can generally handle large amounts of unstructured data, such as user comments on social media platforms, and analyze them in a relatively short time.
+* NLP can effectively perform sentiment analysis to identify and categorize opinions and emotions expressed in user comments related to COVID-19.
+* NLP can process text in multiple languages making it possible to analyze user comments related to COVID-19 from different parts of the world. This can further provide insights into how the pandemic is affecting people in different regions and help in developing appropriate responses. 
+* NLP can be easily integrated with other technologies such as machine learning and data visualization to provide a comprehensive understanding of user comments related to COVID-19.
 
 
 ## Data Acquisition
