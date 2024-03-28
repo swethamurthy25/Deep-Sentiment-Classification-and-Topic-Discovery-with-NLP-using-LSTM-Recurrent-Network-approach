@@ -18,7 +18,23 @@ This paper mainly focuses on the importance of using public opinions and suitabl
 * NLP can effectively perform sentiment analysis to identify and categorize opinions and emotions expressed in user comments related to COVID-19.
 * NLP can process text in multiple languages making it possible to analyze user comments related to COVID-19 from different parts of the world. This can further provide insights into how the pandemic is affecting people in different regions and help in developing appropriate responses. 
 * NLP can be easily integrated with other technologies such as machine learning and data visualization to provide a comprehensive understanding of user comments related to COVID-19.
-___________________________________________________________________________________________
+
+## $\textcolor{red}{Overall\ Approach}$
+
+* Phases of Project - Data Collection, Data preprocessing, Topic discovery, and model discovery, sentiment classification, model evaluation.
+
+* The first step is to collect many COVID-19-related comments from social media platforms such as Reddit, Twitter, and Facebook.
+* Then, the collected data is preprocessed to remove stop words and other irrelevant information.
+*  The preprocessed data is then tokenized, stemmed, and lemmatized.
+*  The preprocessed data is used to train a deep learning model, such as an LSTM Recurrent Neural Network, to classify the sentiment of each comment as positive, negative, 
+   or neutral.
+* The performance of the sentiment classification model is evaluated using different metrics such as accuracy and precision.
+* In topic discovery, the preprocessed data is further analyzed using topic modeling techniques such as Latent Dirichlet Allocation (LDA) to identify the topics discussed 
+  in the comments.
+* Based on the results of the model evaluation and topic discovery, the model is refined by tweaking hyperparameters, changing the architecture of the deep learning model, 
+  or using a different feature extraction technique.
+* The above steps are repeated iteratively until the desired performance of the sentiment classification and topic discovery model is achieved.
+
 
 ## $\textcolor{red}{Step\ 1-\ Data\ Acquisition\ and\ identifying\ data\ sources}$
 
@@ -34,47 +50,22 @@ Data acquisition is the process of collecting and gathering raw data from variou
 * We have taken measures to protect the privacy and anonymity of the individuals who have made the comments.
 * Overall, the methodology for collecting data sources will be rigorous and thorough to ensure that the data used for the deliverables are accurate.
 
-
-### Iterative nature of NLP in relation to project and deliverable
-
-  Some of the processes that have been followed in the project in an iterative manner are data collection. Data preprocessing, sentiment classification, model evaluation, Topic discovery, and model discovery.
-
-  The first step is to collect many COVID-19-related comments from social media platforms such as Reddit, Twitter, and Facebook. Then, the collected data is preprocessed to remove stop words and other irrelevant information. The preprocessed data is then tokenized, stemmed, and lemmatized. The preprocessed data is used to train a deep learning model, such as an LSTM Recurrent Neural Network, to classify the sentiment of each comment as positive, negative, or neutral. The performance of the sentiment classification model is evaluated using different metrics such as accuracy and precision. In topic discovery, the preprocessed data is further analyzed using
-topic modeling techniques such as Latent Dirichlet Allocation (LDA) to identify the topics discussed in the comments.
-
-  Based on the results of the model evaluation and topic discovery, the model is refined by tweaking hyperparameters, changing the architecture of the deep learning model, or using a different feature extraction technique. The above steps are repeated iteratively until the desired performance of the sentiment classification and topic discovery model is achieved
-
-
-## Data Cleaning
-
-### Steps were taken to determine whether the data should be considered sensitive:
-
--- Sensitive data is any information that, if revealed, could harm, or embarrass people, as it relates to COVID-19 patient comments. Examples of sensitive information include personally identifiable information (PII), names of persons, financial information about the cost of medical care in a certain hospital, and any other information that can be used to identify a person.
-
--- Evaluating the data's possible hazards, such as the danger of injury or embarrassment to certain people if the data were revealed. 
-
--- Data protection procedures are implemented to safeguard the data based on the risk assessment. For example, the data may be anonymized, access restrictions may be put in place, or sensitive data fields may be encrypted.
-
--- Legal or ethical requirements linked with the collection and management of sensitive data are necessary.
-
-### Necessary steps to ensure the security of the data:
-
--- Encryption and access controls should be used to prevent unauthorized access.
-
--- Data security requirements should be observed while using a secured server or cloud-based storage.
-
--- To protect the identity of specific people, the data should be anonymized if it contains personal information.
-
--- To use the data for research purposes, the individual's personal informed consent must be used.
-
--- To secure personal information, data privacy laws and regulations are rigorously adhered to.
-
-### Process and Methodology for Cleaning the Data:
-
 #### The final format for modeling and analysis:
 
 <img width="436" alt="image" src="https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/6bc27984-3b03-463c-80b7-3ed6942d7340">
 
+## $\textcolor{red}{Step\ 2-\ Data\ Processing\ and\ Transformation}$
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/c704fac7-23e2-488e-85f3-f2ac7efb602d)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/9d3697bb-ccd3-44e1-8f99-f0879d067502)
+
+
+#### Identified Sentiment Polarity
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/ed9699f5-89ea-4865-88a1-ae187682e85f)
+
+#### Formation of Word Cloud
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/94f3d724-bf8c-4ad3-bb8c-50391e4fbf6f)
 
 
 
