@@ -94,6 +94,35 @@ Data acquisition is the process of collecting and gathering raw data from variou
 ![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/2ef4fda2-f8f7-499a-9e2f-e66a47205d16)
 
 
+## $\textcolor{red}{Step\ 4-\ LSTM\ Model\ Implementation}$
+
+#### Tokenize the text & padding the sequence
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/53f839ce-a779-4215-b147-2e1529d5b3e4)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/28a89cbf-2d5c-41c2-a144-5849c0dd8ea5)
+
+#### Building the Model
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/c14d8490-b580-4007-a401-1c32c3839761)
+
+#### Model Training
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/c2475f5a-4ed3-4a52-9fda-5ccd1de1b8e0)
+
+#### Model Evaluation & Accuracy 
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/dde74b62-dd07-4f0a-94a0-8bbfea918d3c)
 
 
+## $\textcolor{red}{Step\ 5-\ Prediction\ of\ Sentiments\ using\ LSTM}$
 
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/62a418a0-c1a1-4783-a3ce-b2a2f7649e79)
+
+![image](https://github.com/swethamurthy25/Deep-Sentiment-Classification-and-Topic-Discovery-with-NLP-using-LSTM-Recurrent-Network-approach/assets/112581595/7f3e237b-02e4-49ad-a276-3b9458e67034)
+
+## $\textcolor{red}{Step\ 6-\ Measure\ of\ Sucess-\ Overall\ Accuracy\ Acieved\ 81.15%}$
+
+* Accuracy is the best metric to measure the performance of the models in terms of correctly classifying the sentiment of the COVID-19 comments.
+* The output of the model will be the probability of the sentiment.
+* If the probability is above a certain threshold, then it is classified as positive otherwise it is negative.
+* In the sentiment categorization of COVID-19 comments, the LSTM model outperformed other well-known machine learning algorithms including SVM, Naive Bayes, Logistic 
+  Regression, and KNN, with an accuracy of 81.15%.
+* The authors also point out that studies have demonstrated the effectiveness of LSTM-based models for tasks involving natural language processing, including sentiment 
+  analysis, text production, and machine translation.
