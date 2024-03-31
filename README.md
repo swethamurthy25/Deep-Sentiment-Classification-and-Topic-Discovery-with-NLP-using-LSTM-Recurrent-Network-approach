@@ -22,8 +22,7 @@ This paper mainly focuses on the importance of using public opinions and suitabl
 ## $\textcolor{red}{Overall\ Approach}$
 
 * Phases of Project - Data Collection, Data preprocessing, Topic discovery, and model discovery, sentiment classification, model evaluation.
-
-* The first step is to collect many COVID-19-related comments from social media platforms such as Reddit, Twitter, and Facebook.
+* The first step is collecting many COVID-19-related comments from social media platforms like Reddit, Twitter, and Facebook.
 * Then, the collected data is preprocessed to remove stop words and other irrelevant information.
 *  The preprocessed data is then tokenized, stemmed, and lemmatized.
 *  The preprocessed data is used to train a deep learning model, such as an LSTM Recurrent Neural Network, to classify the sentiment of each comment as positive, negative, 
