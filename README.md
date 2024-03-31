@@ -1,4 +1,4 @@
-## $\textcolor{red}{Deep\ Sentiment\ Classification\ and\ Topic\ Discovery\ with\ NLP\ using\ LSTM\ NeuralNetwork}$
+## $\textcolor{red}{Deep\ Sentiment\ Classification\ using\ LSTM\ NeuralNetwork}$
 
 * Course: Natural Language Processing (NLP)  
 * Reference Paper: https://ieeexplore.ieee.org/document/9112671
