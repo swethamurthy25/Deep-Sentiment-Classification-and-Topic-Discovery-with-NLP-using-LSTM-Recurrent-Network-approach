@@ -1,6 +1,5 @@
 ## $\textcolor{red}{Deep\ Sentiment\ Classification\ using\ LSTM\ NeuralNetwork}$
 
-* Course: Natural Language Processing (NLP)  
 * Reference Paper: https://ieeexplore.ieee.org/document/9112671
 
 This paper mainly focuses on the importance of using public opinions and suitable NLP-based computational techniques to understand the issues around Covid-19 and the related decision-making process.
